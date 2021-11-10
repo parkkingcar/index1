@@ -1,0 +1,30 @@
+body{
+  font-family: Helvetica;
+  font-size: 16px;
+  color: 58595B;
+}
+
+.menu{
+  text-align: center;
+  word-spacing: 20px;
+  padding: 30px;
+}
+
+a{text-decoration: none;}
+
+.travel{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 60px;
+		width: 165px;
+		height: 58px;
+}
+
+.img_all{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+	height: 90%;
+}
